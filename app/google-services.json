@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848318466468",
+    "firebase_url": "https://daily-planner-f9804.firebaseio.com",
+    "project_id": "daily-planner-f9804",
+    "storage_bucket": "daily-planner-f9804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848318466468:android:3b4b2f1f19ae7deb53d931",
+        "android_client_info": {
+          "package_name": "com.atul.dailyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848318466468-a46ilvmff1a34n0sk9hokitv0ol22fo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5ogIws_0TQCleNkPFEyCqtYET4wVnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848318466468-a46ilvmff1a34n0sk9hokitv0ol22fo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
